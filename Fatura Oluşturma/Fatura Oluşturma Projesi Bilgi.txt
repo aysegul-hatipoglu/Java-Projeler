@@ -1,0 +1,11 @@
+Bu proje ile Boyner Faturasý Görüntüsü oluþturup PDF formatýnda 
+gösterdiðimiz alana yazma iþlemi yapýyoruz. En son oluþan fatura 
+çýktým Bu klasördeki "Fatura.pdf" dosyasýdýr. Sizler JFrame dosyasýnda
+deðiþiklik yaparak istediðiniz farklý bir fatura yada daha farklý
+ekran görüntülerini bu uygulamayla pdf formatýnda yazdýrabilirsiniz.
+Ben burada veritabanýma eriþip istediðim Müþteri-Sipariþ bilgilerini
+çekip ekran görüntüsü olarak elde ederek bir PDF dosyaya yazdýrýyorum.
+Siz bu görüntü dýþýnda sayfaya yazý yada farklý türden bilgiler de 
+ekleyebilirsiniz. Ayrýca kodlarý çalýþtýrýrken dikkat etmeniz gereken
+Dosya yollarýný düzeltiniz. Dosyalarý kaydedeceðiniz ve okuyacaðýnýz 
+yollarýn doðru olmasýna dikkat ediniz
